@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr17</string>
+    <string name="login">your login</string>
+    <string name="pass">your password</string>
+    <string name="save">Save</string>
+    <string name="Load">Load</string>
+</resources>
